@@ -2,6 +2,6 @@ package core;
 
 public class App {
 public static void main(String [] args) {
-	System.out.println("Hi RUstam");
+	System.out.println("Hi Bada");
 }
 }
